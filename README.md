@@ -1,2 +1,2 @@
 # kentos
-PHP Code
+Php code to display the date and day are currently.
